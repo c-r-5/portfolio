@@ -2,4 +2,4 @@
 
 WIP。
 
-URL: https://c-r-5.github.io/portfolio/
+URL: https://c-r-5.github.io/
