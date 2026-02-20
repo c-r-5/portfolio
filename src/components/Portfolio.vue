@@ -77,7 +77,7 @@
               <p class="mb-3" style="white-space: pre-line; word-break: break-word">
                 {{ project.description }}
               </p>
-              <div class="d-flex flex-wrap ga-2">
+              <v-chip-group>
                 <v-chip
                   v-for="tech in project.technologies"
                   :key="tech"
@@ -86,7 +86,7 @@
                 >
                   {{ tech }}
                 </v-chip>
-              </div>
+              </v-chip-group>
             </v-card-text>
             <v-card-actions>
               <v-spacer />
