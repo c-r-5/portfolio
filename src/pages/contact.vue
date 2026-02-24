@@ -8,16 +8,6 @@
         <v-list>
           <v-list-item>
             <v-list-item-icon>
-              <v-icon>mdi-github</v-icon>
-            </v-list-item-icon>
-            <v-list-item-content>
-              <v-list-item-title>
-                <a href="https://github.com/c-r-5" target="_blank">GitHub</a>
-              </v-list-item-title>
-            </v-list-item-content>
-          </v-list-item>
-          <v-list-item>
-            <v-list-item-icon>
               <v-icon>mdi-twitter</v-icon>
             </v-list-item-icon>
             <v-list-item-content>
